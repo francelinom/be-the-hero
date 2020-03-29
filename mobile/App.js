@@ -1,4 +1,5 @@
 import React from 'react';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import Routes from './src/routes';
 
